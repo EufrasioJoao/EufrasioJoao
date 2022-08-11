@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eufrasio Joao</h1>
-<h3 align="center">A passionate frontend developer from Mozambique</h3>
+<h3 align="center">A passionate fullstack developer from Mozambique</h3>
 
 - 📫 How to reach me **eufrasiojoao00@gmail.com**
 
