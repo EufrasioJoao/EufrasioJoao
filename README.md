@@ -1,4 +1,4 @@
-![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3HtgxLX9a6czSJqnd3H_TZCcc72tHqEf8g&usqp=CAU)
+
 <h1 align="center">Hi 👋, I'm Eufrasio Joao</h1>
 <h3 align="center">A passionate frontend developer from Mozambique</h3>
 
