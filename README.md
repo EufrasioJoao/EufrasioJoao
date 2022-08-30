@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Eufrasio Joao</h1>
 <h3 align="center">A passionate fullstack web developer from Mozambique</h3>
+<img align='right' altt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eufrasiojoao&label=Profile%20views&color=0e75b6&style=flat" alt="eufrasiojoao" /> </p>
 
