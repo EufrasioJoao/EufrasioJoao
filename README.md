@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I am Eufrasio Joao</h1>
 <h3 align="center">A passionate fullstack web developer from Mozambique</h3>
-<img align='right' altt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg"
+<img align='right' altt="coding" width="400" src="https://my-portfolio-git-main-frasios-projects.vercel.app/_next/image?url=%2Fback.jpg&w=1200&q=75"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eufrasiojoao&label=Profile%20views&color=0e75b6&style=flat" alt="eufrasiojoao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ainsley_john_" target="blank"><img src="https://img.shields.io/twitter/follow/ainsley_john_?logo=twitter&style=for-the-badge" alt="ainsley_john_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/frasio_" target="blank"><img src="https://img.shields.io/twitter/follow/frasio_?logo=twitter&style=for-the-badge" alt="frasio_" /></a> </p>
 
 - 🌱 I’m currently learning **Electron.js**
 
-- 👨‍💻 All of my projects are available at [https://eufrasiojoao.netlify.app](https://eufrasiojoao.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://eufrasiojoao.site.app](https://eufrasiojoao.site.app/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **eufrasiojoao00@gmail.com**
 
-- 📄 Know about my experiences [https://eufrasiojoao.netlify.app/resume.pdf)
+- 📄 Know about my experiences [https://eufrasiojoao.site.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
