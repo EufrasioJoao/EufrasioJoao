@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eufrasiojoao&label=Profile%20views&color=0e75b6&style=flat" alt="eufrasiojoao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/frasio_" target="blank"><img src="https://img.shields.io/twitter/follow/frasio_?logo=twitter&style=for-the-badge" alt="frasio_" /></a> </p>
+<p align="left"> <a href="https://x.com/frasio__" target="blank"><img src="https://img.shields.io/twitter/follow/frasio_?logo=twitter&style=for-the-badge" alt="frasio_" /></a> </p>
 
 - 🌱 I’m currently learning **Electron.js**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/frasio__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frasio__" height="30" width="40" /></a> <a href="https://linkedin.com/in/eufrasio-joão-04a118248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eufrasio-joão-04a118248" height="30" width="40" /></a> <a href="https://instagram.com/frasio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frasio_" height="30" width="40" /></a>
+<a href="https://x.com/frasio___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frasio__" height="30" width="40" /></a> <a href="https://linkedin.com/in/eufrasio-joão-04a118248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eufrasio-joão-04a118248" height="30" width="40" /></a> <a href="https://instagram.com/frasio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frasio_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
